@@ -4,7 +4,7 @@
   "keywords": [
     "telegram",
     "best",
-    "indian",
+    "indonesia",
     "pyrogram",
     "torrent",
     "3",
@@ -14,9 +14,9 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://github.com/SpEcHiDe/PublicLeech",
-  "success_url": "https://telegram.dog/ThankTelegram",
-  "website": "https://github.com/SpEcHiDe/PublicLeech",
+  "repository": "https://github.com/Scroxy-X/Leecher-X",
+  "success_url": "https://t.me/VioletsRobot",
+  "website": "https://github.com/Scroxy-X/Leecher-X",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
